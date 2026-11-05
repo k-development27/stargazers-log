@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A library for building user interfaces.",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "The source code editor.",
+    "starred_at": "2025-01-30"
+  },
+  {
+    "repository": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All algorithms implemented in Python.",
+    "starred_at": "2024-12-08"
+  }
+]
